@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 106F-4EF2
+
+ Directory of C:\Users\Samuel\Desktop\MyProject
+
+06/04/2019  18:14    <DIR>          .
+06/04/2019  18:14    <DIR>          ..
+06/04/2019  18:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  729,411,674,112 bytes free
